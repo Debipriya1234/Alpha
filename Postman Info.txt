@@ -1,0 +1,19 @@
+1.Create a 'Workspace'
+      a. create blank workspace
+      b. click on next
+      c. give name,choose team for accessing your workspace
+      d. click on create
+2.Create a 'Collection'
+      a. click on + button
+      b. click on blank collection
+      c. create multiple collections
+      d. inside multiple collections we can create multiple folders
+3.Add a 'Request'=createPet
+         a.in post give url-https://petstore.swagger.io/v2/pet
+         b.in body give the details of pet
+         c.id=9223372036854622356     
+
+======================================================================
+In CRUD
+PetStore project-Pets
+ReqRes project-Users
